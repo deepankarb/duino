@@ -39,7 +39,7 @@
     "node": "*"
   },
   "dependencies": {
-    "serialport": "= 1.2.2",
+    "serialport": "= 1.2.1",
     "colors": "*"
   },
   "devDependencies": {},
